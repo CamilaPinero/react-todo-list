@@ -1,0 +1,24 @@
+{
+    "todos": [
+        {
+            "id": 1,
+            "description": "Comer",
+            "completed": false
+        },
+        {
+            "id": 2,
+            "description": "Bañarme",
+            "completed": false
+        },
+        {
+            "id": 3,
+            "description": "Sacar a pasear al perro",
+            "completed": false
+        },
+        {
+            "id": 4,
+            "description": "Estudiar",
+            "completed": false
+        }
+    ]
+}
